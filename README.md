@@ -1,2 +1,2 @@
-# BrainTumor-Detecetion-and-Segmentation-FlaskDemo
- demo
+# BrainTumorDetection
+ Brain tumor detection and segmentation with Flask
