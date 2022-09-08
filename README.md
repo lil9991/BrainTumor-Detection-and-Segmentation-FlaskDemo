@@ -84,7 +84,22 @@ Proje kapsamında her bir yöntem için 310 görüntü, toplamda 620 görüntü 
 Arayüz  için  Html, CSS ve JavaScript  kullanıldı. Modelin gömülmesi ve entegrasyonu için Python’nın web için geliştirilmiş olan Flask framework’unu kullandıldı. Flask, web uygulamalarını kolayca geliştirmenizi sağlayan bir modüldür. Küçük ve genişletilmesi kolay bir çekirdeğe sahiptir.
  </div>
 
-<div><h2>Proje Çıktısı</h2></div>
+<div><h2>Proje Çıktısı</h2>
+
+<h3> Anasayfa </h3>
+<img src="https://github.com/lil9991/BrainTumor-Detection-and-Segmentation-FlaskDemo/blob/main/img/FE1.png"
+  width="500" height="300"> 
+  <img src="https://github.com/lil9991/BrainTumor-Detection-and-Segmentation-FlaskDemo/blob/main/img/FE2.png"
+  width="500" height="300"> 
+  <img src="https://github.com/lil9991/BrainTumor-Detection-and-Segmentation-FlaskDemo/blob/main/img/FE3.png"
+  width="500" height="300"> 
+  <img src="https://github.com/lil9991/BrainTumor-Detection-and-Segmentation-FlaskDemo/blob/main/img/FE4.png"
+  width="500" height="300"> 
+  
+<h3> Sonuçlar </h3>
+
+
+</div>
 
 <div><h2>Kaynakları</h2></div>
 https://paperswithcode.com/model/mask-r-cnn?variant=mask-r-cnn-r50-c4-1x
