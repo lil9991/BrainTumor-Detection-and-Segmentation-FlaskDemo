@@ -3,10 +3,8 @@
 <p>Brain Tumor Detection/Beyin Tümörü Tespiti</p>
 </div>
 
-<div><h2>Projenin Amacı</h2>
-</div>
-
 <div><h2>Projenin Hedefi</h2>
+Beyin tümörü, insan hayatını olumsuz etkileyen, ölümcül bir hastalıktır. Hastalığın erken teşhisi, hastanın yaşama şansını büyük oranda arttırmaktadır. Beyin tümörünü saptamak için genel yöntem Manyetik Rezonans Görüntüleme (MRI) taramalarıdır. MR görüntülerinden beyindeki anormal doku büyümesi hakkında bilgi belirlenir. Projenin temel hedefi bu görüntüleri kullanarak Derin Öğrenme yöntemleri ile erken teşhis için yardımcı sistem geliştirmek. 
 </div>
 <div><h2>Proje Adımları</h2>
   <li>Derin Öğrenme Yötemlerinin Kullanılması</li>
