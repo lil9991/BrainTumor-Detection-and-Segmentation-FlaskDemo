@@ -54,18 +54,22 @@ Proje kapsamında her bir yöntem için 310 görüntü, toplamda 620 görüntü 
   width="300" height="300"> 
   <img align = "left" src="https://github.com/lil9991/BrainTumor-Detection-and-Segmentation-FlaskDemo/blob/main/img/mask.png"
   width="300" height="300"> <br>
-  <p> Veri Etiketleme Aracı : Make Sense AI <p>  
+ Proje kapmasımda kullanılan Görüntülere [buradan](https://www.kaggle.com/datasets/davidbroberts/brain-tumor-object-detection-datasets) erişim sağlayabilirisniz. <br> 
+ Veri Etiketleme Aracı : Make Sense AI   
 </div> 
 
 
 <div><h2>Eğitimler Sonuçları</h2>
-  <li>YOLOv4</li>
+  <li>YOLOv4 t-Test Sonuçları</li>
   
-  <img src="https://github.com/lil9991/BrainTumor-Detection-and-Segmentation-FlaskDemo/blob/main/img/yolo.png"
+  <img src="https://github.com/lil9991/BrainTumor-Detection-and-Segmentation-FlaskDemo/blob/main/img/yolo1.png"
+  width="290" height="290"> 
+  
+  <li>Mask R-CNN Test Sonuçları</li>
+  
+ <img src="https://github.com/lil9991/BrainTumor-Detection-and-Segmentation-FlaskDemo/blob/main/img/segment1.png"
   width="300" height="300"> 
-  <li>Mask R-CNN</li>
-  <img src="https://github.com/lil9991/BrainTumor-Detection-and-Segmentation-FlaskDemo/blob/main/img/yolo.png"
-  width="300" height="300"> 
+
  </div>
  
 <div>
