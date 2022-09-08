@@ -87,7 +87,7 @@ Arayüz  için  Html, CSS ve JavaScript  kullanıldı. Modelin gömülmesi ve en
 <div><h2>Proje Çıktısı</h2>
 
 <h3> Anasayfa </h3>
-<p> Anasayfa, Proje Hakkında, Çözümler ve İletişim olmak üzere dört bölümden oluşmakta </p>
+<p> Anasayfa, Proje Hakkında, Çözümler ve İletişim olmak üzere dört bölümden oluşmakta </p> <br>
 <img src="https://github.com/lil9991/BrainTumor-Detection-and-Segmentation-FlaskDemo/blob/main/img/FE1.png"
   width="500" height="300"> 
   <img src="https://github.com/lil9991/BrainTumor-Detection-and-Segmentation-FlaskDemo/blob/main/img/FE2.png"
@@ -98,8 +98,7 @@ Arayüz  için  Html, CSS ve JavaScript  kullanıldı. Modelin gömülmesi ve en
   width="500" height="300"> 
   
 <h3> Sonuçlar </h3>
-<p> Nesnein Tespiti, Orjinal Görüntü, Beyin Bölümleri ve Kırpılmış Tümör Görüntüsü olmak üzere dört bölümden oluşmakta </p>
-<p> Anasayfa, Proje Hakkında, Çözümler ve İletişim olmak üzere dört bölümden oluşmakta </p>
+<p> Nesnein Tespiti, Orjinal Görüntü, Beyin Bölümleri ve Kırpılmış Tümör Görüntüsü olmak üzere dört bölümden oluşmakta </p> <br>
 <img src="https://github.com/lil9991/BrainTumor-Detection-and-Segmentation-FlaskDemo/blob/main/img/pr1.png"
   width="400" height="400"> 
   <img src="https://github.com/lil9991/BrainTumor-Detection-and-Segmentation-FlaskDemo/blob/main/img/pr2.png"
