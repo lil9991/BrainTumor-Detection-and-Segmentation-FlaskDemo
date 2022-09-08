@@ -113,7 +113,6 @@ Arayüz  için  Html, CSS ve JavaScript  kullanıldı. Modelin gömülmesi ve en
 <div><h2>Kaynakları</h2></div>
 https://paperswithcode.com/model/mask-r-cnn?variant=mask-r-cnn-r50-c4-1x <br>
 https://github.com/armandgurgu23/maskrcnn-deploy<br>
-https://merveelifsarac.medium.com/cnn-r-cnn-fast-r-cnn-mask-r-cnn-c90a1a4d76fb#:~:text=Bilgisayarla%20g%C3%B6rmede%20instance%20segmentation%20(%C3%B6rnek,veya%20videodaki%20farkl%C4%B1%20nesneleri%20ay%C4%B1rabilir. <br>
 https://www.w3schools.com/w3css/w3css_templates.asp <br>
 https://models.roboflow.com/ <br>
 https://www.hindawi.com/journals/jhe/2022/9580991/ <br>
