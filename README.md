@@ -14,6 +14,9 @@ Beyin tümörü, insan hayatını olumsuz etkileyen, ölümcül bir hastalıktı
 <div><h2>Kullanılan Yöntemler</h2>
    <h3>Nesne tespiti : YOLOv4 </h3>
    Amacımız elimizdeki veri setini kullanarak beyinde tümör olup olmadığını yüksek doğrulukla tespit eden bir model oluşturmak. Nesne tanıma, bilgisayarlı görme alanındaki en zorlu görevlerden biri olarak kabul edilir.  Birkaç farklı nesne algılama algoritması olsa da, bu çalışmada YOLOv4 tercih edilmiştir. YOLOv4 (You Only Look Once); videolar, canlı yayınlar veya görüntülerdeki belirli nesneleri tanımlayan gerçek zamanlı bir nesne algılama algoritmasıdır. Bir nesneyi algılamak için derin bir Evrişimli Sinir Ağı (CNN) tarafından öğrenilen öznitelikleri kullanır. YOLO, diğer ağlardan çok daha hızlı olma avantajına sahiptir ve yine de doğruluğu korur.
+  
+  Proje kapmasımda kullanılan YOLOv4 kod kaynaklarına buradan [https://models.roboflow.com/] erişim sağlayabilirisniz. 
+  
    
   <h3>Segmentasyon  : Mask R-CNN</h3>
    <h3>Segmentasyon(Bölütleme) nedir? </h3>
