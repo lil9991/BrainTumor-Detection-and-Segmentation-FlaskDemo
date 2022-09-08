@@ -1,6 +1,6 @@
 <div>
 <h2>Proje Adı</h2>
-<p>Brain Tumor Detection and Segmentation/Beyin Tümörü Tespiti ve Bölütleme</p>
+<p>Brain Tumor Detection/Beyin Tümörü Tespiti</p>
 </div>
 
 <div><h2>Projenin Hedefi</h2>
@@ -12,8 +12,10 @@ Beyin tümörü, insan hayatını olumsuz etkileyen, ölümcül bir hastalıktı
 </div>
 
 <div><h2>Kullanılan Yöntemler</h2>
-  <li>Nesne tespiti : YOLOv4</li>
-  <li>Segmentasyon  : Mask R-CNN</li>
+   <h3>Nesne tespiti : YOLOv4 </h3>
+   Amacımız elimizdeki veri setini kullanarak beyinde tümör olup olmadığını yüksek doğrulukla tespit eden bir model oluşturmak. Nesne tanıma, bilgisayarlı görme alanındaki en zorlu görevlerden biri olarak kabul edilir.  Birkaç farklı nesne algılama algoritması olsa da, bu çalışmada YOLOv4 tercih edilmiştir. YOLOv4 (You Only Look Once); videolar, canlı yayınlar veya görüntülerdeki belirli nesneleri tanımlayan gerçek zamanlı bir nesne algılama algoritmasıdır. Bir nesneyi algılamak için derin bir Evrişimli Sinir Ağı (CNN) tarafından öğrenilen öznitelikleri kullanır. YOLO, diğer ağlardan çok daha hızlı olma avantajına sahiptir ve yine de doğruluğu korur.
+   
+  <h3>Segmentasyon  : Mask R-CNN</h3>
    <h3>Segmentasyon(Bölütleme) nedir? </h3>
      <p> Görüntü segmentasyonu, görüntülerin analizi, artırılmış gerçeklik, yapay görme ve daha pek çok alanda sayısız uygulamaya sahip görüntü işlemenin bir dalıdır.
       Segmentasyon, bir giriş görüntüsünü, verilen görüntüdeki ilgi alanı (RoI) ile güçlü korelasyona sahip farklı bölümlere ayırmayı içerir [1]. Bu sayede her piksel       için etiketler çıkartılır ve bu etiketlere dair tahminler yapılarak birtakım çıkarımlarda bulunulur. Instance ve Semantic olarak 2 farklı türü vardır. </p>
