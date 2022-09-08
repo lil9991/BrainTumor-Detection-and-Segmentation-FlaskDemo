@@ -48,7 +48,13 @@ Beyin tümörü, insan hayatını olumsuz etkileyen, ölümcül bir hastalıktı
 </div>  
   
 <div> <h2>Veri Seti Oluşturma:</h2> 
-Proje kapsamında her bir yöntem için 310 görüntü, toplamda 620 görüntü etiketlenmiştir.  
+Proje kapsamında her bir yöntem için 310 görüntü, toplamda 620 görüntü etiketlenmiştir. <br> </br>
+ 
+<img src="https://github.com/lil9991/BrainTumor-Detection-and-Segmentation-FlaskDemo/blob/main/img/yolo.png"
+  width="300" height="300"> 
+  <img align = "left" src="https://github.com/lil9991/BrainTumor-Detection-and-Segmentation-FlaskDemo/blob/main/img/mask.png"
+  width="300" height="300"> <br>
+  <p> Veri Etiketleme Aracı : Make Sense AI <p>  
 </div> 
 
 
