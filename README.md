@@ -37,7 +37,7 @@ Beyin tümörü, insan hayatını olumsuz etkileyen, ölümcül bir hastalıktı
  <img
   src="https://miro.medium.com/max/1154/0*_p3LGIufAVslUhEw"
   width="500" height="400"> <br>
-
+Proje kapmasımda kullanılan Mask R-CNN kod kaynaklarına [buradan](https://pysource.com/2021/08/10/train-mask-r-cnn-for-image-segmentation-online-free-gpu/) erişim sağlayabilirisniz. 
 </div>
 
 <div><h2>Yazılım Araçları</h2>
@@ -60,7 +60,12 @@ Proje kapsamında her bir yöntem için 310 görüntü, toplamda 620 görüntü 
 
 <div><h2>Eğitimler Sonuçları</h2>
   <li>YOLOv4</li>
+  
+  <img src="https://github.com/lil9991/BrainTumor-Detection-and-Segmentation-FlaskDemo/blob/main/img/yolo.png"
+  width="300" height="300"> 
   <li>Mask R-CNN</li>
+  <img src="https://github.com/lil9991/BrainTumor-Detection-and-Segmentation-FlaskDemo/blob/main/img/yolo.png"
+  width="300" height="300"> 
  </div>
  
 <div>
