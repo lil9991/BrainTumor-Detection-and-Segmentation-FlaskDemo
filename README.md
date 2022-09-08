@@ -60,7 +60,7 @@ Proje kapsamında her bir yöntem için 310 görüntü, toplamda 620 görüntü 
 
 
 <div><h2>Eğitimler Sonuçları</h2>
-  <li>YOLOv4 t-Test Sonuçları</li>
+  <li>YOLOv4 Test Sonuçları</li>
   
   <img src="https://github.com/lil9991/BrainTumor-Detection-and-Segmentation-FlaskDemo/blob/main/img/yolo1.png"
   width="290" height="290"> 
@@ -75,7 +75,8 @@ Proje kapsamında her bir yöntem için 310 görüntü, toplamda 620 görüntü 
 <div>
 <h2>Web Geliştirme</h2>
  <li>Arayüz : HTML, CSS ve JavaScript</li>
- <li>Backend: Flask</li>
+ <li>Backend: Flask</li> <br>
+Arayüz  için  Html, CSS ve JavaScript  kullanıldı. Modelin gömülmesi ve entegrasyonu için Python’nın web için geliştirilmiş olan Flask framework’unu kullandıldı. Flask, web uygulamalarını kolayca geliştirmenizi sağlayan bir modüldür. Küçük ve genişletilmesi kolay bir çekirdeğe sahiptir: ORM (Object Relational Manager) veya benzeri özellikler içermeyen bir mikro çerçevedir
  </div>
 
 <div><h2>Proje Çıktısı</h2></div>
